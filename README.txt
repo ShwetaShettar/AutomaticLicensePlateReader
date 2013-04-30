@@ -17,3 +17,5 @@ Libraries:
 
 Notes:
 Newer versions of the OpenCV library may not be compatible with Tesseract and it's libraries. Since updating to newer versions of OpenCV, I have not been able to get it to run without weird errors with Tesseract and it's python wrappers, although I haven't tried updating all three to their latest versions, which may work. However, there is a demo video I made proving that the source code does in fact work.
+
+More info can be found at the project webpage: http://cs.clarku.edu/~tboraski/cs201/project/
